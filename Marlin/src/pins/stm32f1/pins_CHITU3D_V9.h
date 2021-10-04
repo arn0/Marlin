@@ -24,6 +24,7 @@
 #define BOARD_INFO_NAME "Chitu3D V9"
 
 #define Z_STOP_PIN                          PA14
+#define X_MAX_PIN                           PD12
 
 #define Z2_ENABLE_PIN                       PF3
 #define Z2_STEP_PIN                         PF5
