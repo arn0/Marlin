@@ -790,6 +790,8 @@
 //#define USE_JMAX_PLUG
 //#define USE_KMAX_PLUG
 
+#define X_MAX_PIN PA13 // is actually Z2_STOP_PIN
+
 // Enable pullup for all endstops to prevent a floating state
 //#define ENDSTOPPULLUPS
 #if DISABLED(ENDSTOPPULLUPS)
